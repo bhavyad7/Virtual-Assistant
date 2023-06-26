@@ -1,7 +1,8 @@
 # Virtual-Assistant
 Smart Assistant operating by 'Hey Bhavya'
 
-Initial Configuration required for working with the code
+Initial Configuration required for working with the code:
+
 pip install SpeechRecognition
 pip install pyttsx3
 pip install pywhatkit
